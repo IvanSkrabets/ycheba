@@ -1,6 +1,6 @@
     import java.util.Scanner;
 
-public class Ycheba {
+public class ZadachaOdin {
     public static void main(String[] args) {
         int a = 0;
         Scanner enter = new Scanner(System.in);
