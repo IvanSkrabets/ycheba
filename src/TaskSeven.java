@@ -14,7 +14,7 @@ public class TaskSeven {
             if (e > 1 && e < 5 && c != 12 && c != 13 && c != 14 ){
                 System.out.println( a + " Програмиста");
             }else{
-                System.out.println( a + " Програмисто");
+                System.out.println( a + " Програмистов");
             }
         }
             }
